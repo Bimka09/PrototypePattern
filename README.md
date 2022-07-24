@@ -1,11 +1,11 @@
 # PrototypePattern
 
-#Описание интерфейсов
+# Описание интерфейсов
 
 IMyCloneable - Интерфейс для реализации шаблона прототипа
 
 
-#Описание классов
+# Описание классов
 
 BaseMob - базовый класс, реализующий интерфейсы ICloneable,IMyCloneable
 EarthMob - класс расширяющий класс BaseMob, добавлено поле StoneDamage и TotalDamage 
